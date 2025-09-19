@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "code-runner.executorMap": {
+        "python": "/usr/bin/python3",
+        "cpp": "cd $dir && clang++ -std=c++14 -stdlib=libc++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+
+    },
+    "code-runner.runInTerminal": true
+    
+}
