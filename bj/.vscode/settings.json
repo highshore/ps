@@ -4,5 +4,9 @@
 	"code-runner.executorMap": {
 		"python": "python3 -u",
 		"python3": "python3 -u"
-	}
+    },
+    "files.associations": {
+        "string": "cpp",
+        "iostream": "cpp"
+    }
 }
