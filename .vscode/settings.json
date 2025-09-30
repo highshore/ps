@@ -1,3 +1,8 @@
 {
-	"python.defaultInterpreterPath": "python3"
+	"python.defaultInterpreterPath": "python3",
+	"files.associations": {
+		"__locale": "cpp",
+		"string": "cpp",
+		"string_view": "cpp"
+	}
 }
