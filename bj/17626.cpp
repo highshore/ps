@@ -20,6 +20,6 @@ int main(){
             }
         }
     }
-    cout << records[-1];
+    cout << records[n-1];
     return 0;
 }
