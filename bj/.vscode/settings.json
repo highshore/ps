@@ -7,6 +7,9 @@
     },
     "files.associations": {
         "string": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "algorithm": "cpp"
     }
 }
